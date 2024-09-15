@@ -1,6 +1,5 @@
 package exc2bank;
-//Assignment 2
-//author: Idan Alashvili ID:326117629
+//author: Idan Alashvili
 public class PersonId {
     private long IDnum;
     private String FirstName;
