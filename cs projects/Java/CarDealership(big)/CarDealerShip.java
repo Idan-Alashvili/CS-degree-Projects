@@ -1,6 +1,6 @@
 package CarDealership;
-// Assignment: 5
-// Author: Idan Alashvili, ID: 326117629
+
+// Author: Idan Alashvili
 import javax.swing.text.AbstractDocument;
 import java.io.IOException;
 import java.nio.file.Files;
