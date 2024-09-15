@@ -1,6 +1,5 @@
 package doubleLinkedList;
-// Assignment: 5
-// Author: Idan Alashvili, ID: 326117629
+// Author: Idan Alashvili
 public class Node<T> {
     private T data;
     private Node<T> previous;
