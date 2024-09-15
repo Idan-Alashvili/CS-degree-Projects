@@ -1,4 +1,4 @@
-//Idan Alashvili Id:326117629
+//Idan Alashvili
 package HW1;
 
 import java.util.ArrayList;
