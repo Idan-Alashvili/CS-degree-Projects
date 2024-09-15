@@ -1,6 +1,5 @@
 package exc2bank;
-//Assignment 2
-//author: Idan Alashvili ID:326117629
+//author: Idan Alashvili 
 public class SavingsAccountMain {
     public static void main(String[] args) {
         PersonId[] personIds = new PersonId[10];
