@@ -1,7 +1,6 @@
 package doubleLinkedList;
 import java.util.Scanner;
-// Assignment: 5
-// Author: Idan Alashvili, ID: 326117629
+// Author: Idan Alashvili
 public class Main {
     public static void main(String[] args) {
         DoubleLinkedList<Integer> check = new DoubleLinkedList<>();
