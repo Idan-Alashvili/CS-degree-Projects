@@ -1,6 +1,5 @@
 package doubleLinkedList;
-// Assignment: 5
-// Author: Idan Alashvili, ID: 326117629
+// Author: Idan Alashvili
 public enum menu {
     isEmpty,
     size,
