@@ -1,7 +1,6 @@
 package CarDealership;
 import java.nio.file.Path;
-// Assignment: 5
-// Author: Idan Alashvili, ID: 326117629
+// Author: Idan Alashvili
 public class Employee implements Comparable<Employee> {
     private String name;
     private String id;
