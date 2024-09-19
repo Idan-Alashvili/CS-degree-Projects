@@ -1,6 +1,6 @@
 package exc1Pizza;
 //Assignment 1
-//author: Idan Alashvili ID:326117629
+//author: Idan Alashvili 
 public class CheckPizzaMain {
     public static void main(String[] args) {
         //create pizzas
