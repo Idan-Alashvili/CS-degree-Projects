@@ -1,6 +1,6 @@
 package exc1Pizza;
 //Assignment 1
-//author: Idan Alashvili ID:326117629
+//author: Idan Alashvili 
 public class Pizza {
     private int size;
     private boolean extra_cheese, olives, onion;
