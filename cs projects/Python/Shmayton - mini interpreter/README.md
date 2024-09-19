@@ -107,7 +107,7 @@ print("Is 'Hello' uppercase?", isUpper("Hello"))
 print("Is 'hello' lowercase?", isLower("hello"))
 print("Is 'HELLO' uppercase?", isUpper("HELLO"))
 print("Is 'WORLD' lowercase?", isLower("WORLD"))
-
+```
 ## Requirements
 
 To run this interpreter, you need Python 3.x installed. The project uses the following Python standard libraries:
