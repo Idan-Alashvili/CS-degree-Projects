@@ -62,4 +62,4 @@ The server processes these requests and responds with the shortest path between 
 In this example, the client requests the shortest path between nodes 56 and 9999.
 Example Output:
 Client Request: Start node: 56, Goal node: 9999
-Server Response: Shortest path: 56 -> 877 -> 2839 -> 9999
+Server Response: Shortest path: 56 -> 9999
