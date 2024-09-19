@@ -1,5 +1,4 @@
-//Idan Alashvili ID:326117629, Shaked Cohen ID:315327619, Matan Mezamer Tov ID:208414516
-#include <iostream>
+//Idan Alashvili
 #include <string>
 #include <sstream>
 #include <cstring>
