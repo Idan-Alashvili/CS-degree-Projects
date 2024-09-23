@@ -6,35 +6,28 @@ This project aims to predict the league table of a handball season based on play
 ## Project Structure
 
 - **data/**: Contains all the databases used in the project.
-  - `field_player_detail_2020_2021.csv`
-  - `field_player_detail_2021_2022.csv`
-  - `field_player_detail_2022_2023.csv`
-  - `field_player_detail_2023_2024.csv`
-  - `Goalkeeper_2020_2021.csv`
-  - `Goalkeeper_2021_2022.csv`
-  - `Goalkeeper_2022_2023.csv`
-  - `Goalkeeper_2023_2024.csv`
-  - `Team_offense_2020_2021.csv`
-  - `Team_offense_2021_2022.csv`
-  - `Team_offense_2022_2023.csv`
-  - `Team_offense_2023_2024.csv`
-  - `Team_defense_2020_2021.csv`
-  - `Team_defense_2021_2022.csv`
-  - `Team_defense_2022_2023.csv`
-  - `Team_defense_2023_2024.csv`
+  - `modified_field_player_detail_2020_2021.csv`
+  - `modified_field_player_detail_2021_2022.csv`
+  - `modified_field_player_detail_2022_2023.csv`
+  - `modified_field_player_detail_2023_2024.csv`
+  - `modified_Goalkeeper_2020_2021.csv`
+  - `modified_Goalkeeper_2021_2022.csv`
+  - `modified_Goalkeeper_2022_2023.csv`
+  - `modified_Goalkeeper_2023_2024.csv`
   - `Overall_standings_2020_2021_modified.csv`
   - `Overall_standings_2021_2022_modified.csv`
   - `Overall_standings_2022_2023_modified.csv`
   - `Overall_standings_2023_2024_modified.csv`
 
-- **presentation/**: Includes the presentation slides for the project.
+- **presentation**: Includes the presentation slides for the project.
 
-- **report/**: Contains the project report with detailed explanations and results.
+- **report**: Contains the project report with detailed explanations and results.
 
 ## Data Processing
 
 1. **Data Collection**: 
-   - Gathered data from various sources including field player stats, goalkeeper stats, team offensive and defensive performance, and overall team standings.
+   - Gathered data from official handball bundesliga and used scraping to a csv file.
+   - The data including field player stats, goalkeeper stats and overall team standings.
 
 2. **Data Cleaning**:
    - Handled missing values and ensured that all relevant columns are in numeric format.
