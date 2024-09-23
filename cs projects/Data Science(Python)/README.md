@@ -5,7 +5,7 @@ This project aims to predict the league table of a handball season based on play
 
 ## Project Structure
 
-- **data/**: Contains all the databases used in the project.
+- **Data/**: Contains all the databases used in the project.
   - `modified_field_player_detail_2020_2021.csv`
   - `modified_field_player_detail_2021_2022.csv`
   - `modified_field_player_detail_2022_2023.csv`
@@ -19,9 +19,9 @@ This project aims to predict the league table of a handball season based on play
   - `Overall_standings_2022_2023_modified.csv`
   - `Overall_standings_2023_2024_modified.csv`
 
-- **presentation**: Includes the presentation slides for the project.
+- **Presentation**: Includes the presentation slides for the project.
 
-- **report**: Contains the project report with detailed explanations and results.
+- **Report**: Contains the project report with detailed explanations and results.
 
 ## Data Processing
 
