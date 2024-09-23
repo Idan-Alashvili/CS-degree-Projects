@@ -17,7 +17,7 @@ This repository contains various projects developed during my computer science s
    - Focus on inter-process communication and concurrency.
    - Applied semaphores and mutex locks to avoid race conditions.
 
-### 4. **Producer-Consumer with Data (C++)**
+### 4. **Client-Server with Data (C++)**
   - A client-server architecture project implemented in C++ using TCP/IP sockets.
   - The server processes graph traversal queries from the client and computes the shortest path between two nodes using the Breadth-First Search (BFS) algorithm.
   - The client sends vertex IDs to the server and displays the received shortest path.  
