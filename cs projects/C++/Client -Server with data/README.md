@@ -1,4 +1,4 @@
-# Consumer-Producer Pathfinding Project
+# Client-Server Pathfinding Project
 
 ### Course: מבוא לתכנות מערכות
 ### Project Grade: 100
@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project implements a multithreaded **Consumer-Producer** model where a client sends requests to a server to find the shortest path between two points in a graph. The graph is built from a large dataset (`db.csv`) containing over 170,000 paths, represented as edges between two nodes.
+This project implements a multithreaded **Client-Server** model where a client sends requests to a server to find the shortest path between two points in a graph. The graph is built from a large dataset (`db.csv`) containing over 170,000 paths, represented as edges between two nodes.
 
 The server processes these requests and responds with the shortest path between the two nodes using a Breadth-First Search (BFS) algorithm. The system also implements a cache mechanism to store recent paths and optimize performance by avoiding redundant calculations for frequently requested paths.
 
