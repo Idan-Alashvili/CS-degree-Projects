@@ -23,7 +23,7 @@ This repository contains various projects developed during my computer science s
   - The client sends vertex IDs to the server and displays the received shortest path.  
   - Includes advanced data structures and optimizations for better performance.
 
-### 5. **Handball League Prediction (Data Science, Python)**
+### 5. **Handball League Table Prediction (Data Science, Python)**
   - A Data Science project that predicts handball league standings using player statistics. The project involves building and training a Random Forest Regressor model that predicts team success based on player stats.
   - The data was carefully scraped from the official Handball Bundesliga website and transformed into CSV files. includes player-level statistics, and the model is trained on historical data to predict future standings.
   - The project emphasizes data cleaning, feature engineering, and model evaluation (using Mean Absolute Error and R-squared).
